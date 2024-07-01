@@ -1,8 +1,12 @@
-# React + Vite
+# PROJECT TASK MANAGEMENT SYSTEM (FE)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Developed by Naufal Abrori
 
-Currently, two official plugins are available:
+# This project using React JS (Vite)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Before using this project please make sure you are installed Node JS
+
+1. npm nstall (To install all dependencies in this project)
+2. npm run dev (To running this project in local computer)
+
+Thanks
